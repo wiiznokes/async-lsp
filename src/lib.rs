@@ -106,6 +106,8 @@ macro_rules! define_getters {
     };
 }
 
+//mod omni_trait2;
+
 pub mod concurrency;
 pub mod panic;
 pub mod router;
